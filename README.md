@@ -1,1 +1,1 @@
-THIS PROJECT IS NOW HOSTED @ https://github.com/etextile/lulu
+## THIS PROJECT IS NOW HOSTED @ https://github.com/etextile/lulu
